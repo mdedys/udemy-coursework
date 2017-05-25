@@ -1,0 +1,22 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "css-loader": "^0.28.2",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "image-webpack-loader": "^3.3.1",
+    "style-loader": "^0.18.1",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.0-rc.0"
+  }
+}
